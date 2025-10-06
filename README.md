@@ -13,11 +13,26 @@
 
 <br>
 
-## Connect with me ☕ :
+## Charlemoss ☕ :
 
 <br>
 
-[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "@anushkawijegoonawardana97")](https://www.instagram.com/anushkawijegoonawardana97/) [![@AnushkaWijegoonawardana97](https://img.icons8.com/fluency/48/000000/facebook.png "@AnushkaWijegoonawardana97")](https://www.facebook.com/AnushkaWijegoonawardana97) [![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97")](https://www.linkedin.com/in/anushkawijegoonawardana97/) [![@anushka_wije](https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije")](https://twitter.com/anushka_wije) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "@0711971313")](tel:0711971313) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](anushkaduwolka123@gmail.com)
+<!-- Redes sociales de Damián -->
+<a href="https://www.instagram.com/dami.szn20/" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" title="@dami.szn20">
+</a>
+
+<a href="https://www.facebook.com/damianfrancisco.camcinosaavedra.35/?locale=es_LA" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/000000/facebook.png" alt="Facebook" title="Damián Francisco Cancino Saavedra">
+</a>
+
+<a href="https://www.linkedin.com/in/damian-cancino-70a217389/" target="_blank">
+  <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" title="Damián Cancino">
+</a>
+
+<a href="tel:+56990025928">
+  <img src="https://img.icons8.com/fluency/48/000000/phone-disconnected.png" alt="Teléfono" title="+56 9 9002 5928">
+</a>
 
 <br>
 
