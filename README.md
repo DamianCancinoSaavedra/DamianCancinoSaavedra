@@ -5,10 +5,10 @@
 
 ## Sobre mí :
 
-- 🏢 Actualmente me encuentro estudiando educacion superior **Tecnico Analista Programador** at [Tecnico Analista Programador](https://www.cftsanagustin.cl/carreras/analista-programador/)
-- 🎓 Estudio en un CFT San Agustin y proximamente en la UCM(Universidad de Talca) [CFT y UCM](https://www.cftsanagustin.cl/)[UCM Talca](https://portal.ucm.cl/)
+- 🏢 Actualmente me encuentro egresado de la carrera: **Tecnico Analista Programador** at [Tecnico Analista Programador](https://www.cftsanagustin.cl/carreras/analista-programador/)
+- 🎓 Actualmente egresado del CFT San Agustin y proximamente en la UCM(Universidad de Talca) [CFT y UCM](https://www.cftsanagustin.cl/)[UCM Talca](https://portal.ucm.cl/)
 - 🎓 Mis objetivos: Ser Analista en sistemas y ingeniero en ejecucion de informatica
-- 🏡'Vivo en **Cauquenes City**
+- 🏡'Vivo en **Curicó City**
 - ⚡ **Me gustan los juegos y comida** : 🍕 🏉 🏏 🎥 🚞
 
 <br>
